@@ -1,0 +1,8 @@
+,PrivateSectorEmployee (1),MeritocraticPublicSectorEmployee (2),NonMeritocraticPublicSectorEmployee (3)
+FailedMedicalExamination,-7.46,-0.439,17.99
+ ,(9.82),(3.675),(7.05)
+Observations,"295,611","295,611","295,611"
+Sample,Draft-exempt men,Draft-exempt men,Draft-exempt men
+Cohorts,1958–1962,1958–1962,1958–1962
+Dependent variable mean,37.09,3.395,13.18
+Estimation method,2SLS,2SLS,2SLS

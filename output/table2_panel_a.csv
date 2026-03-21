@@ -1,0 +1,10 @@
+,PublicSectorEmployee (1),FemalePublicSectorEmployee (2),PublicSectorEmployee (1976) (3)
+DistanceToCutoff,0.0002,-0.0003,
+ ,(0.0002),(0.0008),
+DistanceToPreviousYearCutoff,,,0.00007
+ ,,,(0.00035)
+Observations,"691,278","289,339","229,305"
+Sample,Draft-eligible men,Women with exempt ID,Draft-exempt men
+Cohorts,1958–1962,1958–1962,1976
+Dependent variable mean,16.81,19.40,15.21
+Estimation method,OLS,OLS,OLS

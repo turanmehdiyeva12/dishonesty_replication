@@ -1,0 +1,10 @@
+,Public Sector Employee (1),Private Sector Employee (2),Failed Medical Examination (3),Public Sector Employee (4),Public Sector Employee (5),Failed Medical Examination (6),Public Sector Employee (7),Public Sector Employee (8)
+FailedMedicalExamination,-1.62,-4.74,,,17.55,,,18.72
+ ,(0.21),(0.27),,,(7.83),,,(7.90)
+DistanceToCutoff,,,-0.0098,-0.0017,,,,
+ ,,,(0.0006),(0.0008),,,,
+DistanceToPreviousYearCutoff,,,,,,-0.0107,-0.0020,
+ ,,,,,,(0.0007),(0.0008),
+Estimation method,OLS,OLS,OLS (first stage),OLS (reduced form),2SLS,OLS (first stage),OLS (reduced form),2SLS
+Dependent variable mean,16.58,37.09,10.99,16.58,16.58,10.99,16.58,16.58
+Observations,"295,611","295,611","295,611","295,611","295,611","295,611","295,611","295,611"
